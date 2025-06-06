@@ -1,0 +1,69 @@
+Error processing cursor: Unknown template argument kind 437
+Error processing cursor: Unknown template argument kind 437
+Результаты сравнения файлов  ../test_samples/Vector (1).cpp  и  ../test_samples/Vector (2).cpp
+Функции operator++ похожи на  100 % 
+{'id_match': True, 'similarity': 1.0, 'hash1': 'IIPPKPIPPKIP', 'hash2': 'IIPPKPIPPKIP', 'id1': ['Vector::Iterator', 'int'], 'id2': ['Vector::Iterator', 'int']} 
+
+Функции shrinkToFit похожи на  95 % 
+{'id_match': True, 'similarity': 0.9487179487179487, 'hash1': 'IPIPKPIPKKPIPPKPIIPLPIPIPIPPPIPIPPIPIPP', 'hash2': 'IPIPIPIPKIPIPPKPIIPLPIPIPIPPPIPIPPIPIPP', 'id1': ['void'], 'id2': ['void']} 
+
+Функции operator* похожи на  100 % 
+{'id_match': True, 'similarity': 1.0, 'hash1': 'KPIP', 'hash2': 'KPIP', 'id1': ['const ValueType &'], 'id2': ['const ValueType &']} 
+
+Функции pushBack похожи на  52 % 
+{'id_match': True, 'similarity': 0.5238095238095238, 'hash1': 'KPIPIPPIIPKPIPLPPIPLP', 'hash2': 'KPIPLPPIPIPP', 'id1': ['const ValueType &', 'void'], 'id2': ['const ValueType &', 'void']} 
+
+Функции size похожи на  100 % 
+{'id_match': False, 'similarity': 1.0, 'hash1': 'KIP', 'hash2': 'KIP', 'id1': ['int'], 'id2': ['size_t']} 
+
+Функции reserve похожи на  100 % 
+{'id_match': False, 'similarity': 1.0, 'hash1': 'KPIPIPPKP', 'hash2': 'KPIPIPPKP', 'id1': ['int', 'void'], 'id2': ['size_t', 'void']} 
+
+Функции operator-> похожи на  100 % 
+{'id_match': True, 'similarity': 1.0, 'hash1': 'KIP', 'hash2': 'KIP', 'id1': ['const ValueType *'], 'id2': ['const ValueType *']} 
+
+Функции erase похожи на  53 % 
+{'id_match': False, 'similarity': 0.5333333333333333, 'hash1': 'KPIPIPPKIPIPLPP', 'hash2': 'KPIPLPPKP', 'id1': ['int', 'void'], 'id2': ['size_t', 'void']} 
+
+Функции operator!= похожи на  56 % 
+{'id_match': True, 'similarity': 0.5555555555555556, 'hash1': 'KIPIPIP', 'hash2': 'KPPPKPIPP', 'id1': ['bool', 'const Iterator &'], 'id2': ['bool', 'const Iterator &']} 
+
+Функции find похожи на  96 % 
+{'id_match': True, 'similarity': 0.9642857142857143, 'hash1': 'KPIIPLPIPIPIPPPKPIPIPPIPPKIP', 'hash2': 'KPIIPLPIPIPIPPPKPIPIPPIPKIP', 'id1': ['const ValueType &', 'long long'], 'id2': ['const ValueType &', 'long long']} 
+
+Функции capacity похожи на  100 % 
+{'id_match': False, 'similarity': 1.0, 'hash1': 'KIP', 'hash2': 'KIP', 'id1': ['int'], 'id2': ['size_t']} 
+
+Функции popFront похожи на  32 % 
+{'id_match': True, 'similarity': 0.3191489361702128, 'hash1': 'KPIPLPPKIPIPLPP', 'hash2': 'KPIPLPKIPIPLPPIPPKPIIPIPIPLPIPPPIPIPLPPIPIPIPPP', 'id1': ['void'], 'id2': ['void']} 
+
+Функции popBack похожи на  76 % 
+{'id_match': True, 'similarity': 0.7647058823529411, 'hash1': 'KPIPLPPKIPIPLPP', 'hash2': 'KPIPLPKIPIPLPPIPP', 'id1': ['void'], 'id2': ['void']} 
+
+Функции pushFront похожи на  52 % 
+{'id_match': True, 'similarity': 0.5238095238095238, 'hash1': 'KPIPIPPIIPKPIPLPPIPLP', 'hash2': 'KPIPLPPIPIPP', 'id1': ['const ValueType &', 'void'], 'id2': ['const ValueType &', 'void']} 
+
+Функции insert похожи на  87 % 
+{'id_match': False, 'similarity': 0.8666666666666667, 'hash1': 'KPIPIPPKIPIPLPP', 'hash2': 'KPIPIPPKIPLPP', 'id1': ['const Vector &', 'int', 'void'], 'id2': ['const Vector &', 'size_t', 'void']} 
+
+Функции operator== похожи на  100 % 
+{'id_match': True, 'similarity': 1.0, 'hash1': 'KIPIPIP', 'hash2': 'KIPIPIP', 'id1': ['bool', 'const Iterator &'], 'id2': ['bool', 'const Iterator &']} 
+
+Функции eraseBetween похожи на  42 % 
+{'id_match': False, 'similarity': 0.42105263157894735, 'hash1': 'KPIPIPIPIPPKIPIPLPP', 'hash2': 'KPIPLPPKP', 'id1': ['int', 'void'], 'id2': ['size_t', 'void']} 
+
+Функции operator[] похожи на  53 % 
+{'id_match': False, 'similarity': 0.5333333333333333, 'hash1': 'KPIPIPPKIPIPLPP', 'hash2': 'KIPIPIPP', 'id1': ['ValueType &', 'int'], 'id2': ['const ValueType &', 'size_t']} 
+
+Функции end похожи на  100 % 
+{'id_match': True, 'similarity': 1.0, 'hash1': 'KIPIPIPP', 'hash2': 'KIPIPIPP', 'id1': ['Vector::Iterator'], 'id2': ['Vector::Iterator']} 
+
+Функции begin похожи на  100 % 
+{'id_match': True, 'similarity': 1.0, 'hash1': 'KIPIPP', 'hash2': 'KIPIPP', 'id1': ['Vector::Iterator'], 'id2': ['Vector::Iterator']} 
+
+Функции operator= похожи на  100 % 
+{'id_match': True, 'similarity': 1.0, 'hash1': 'KPKPPIPPKPKP', 'hash2': 'KPKPPIPPKPKP', 'id1': ['Vector &', 'Vector &&'], 'id2': ['Vector &', 'Vector &&']} 
+
+Функции loadFactor похожи на  100 % 
+{'id_match': True, 'similarity': 1.0, 'hash1': 'KIPIP', 'hash2': 'KIPIP', 'id1': ['double'], 'id2': ['double']} 
+
